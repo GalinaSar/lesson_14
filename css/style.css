@@ -25,7 +25,7 @@ body {
 .our-promise__header {
     margin-bottom: 68px;
 }
-.tetles__sub-title {
+.titles__sub-title {
     background: url(../img/promise/Overline\ Mark.svg) 0 -2px no-repeat;
     padding-left: 33px;
     font-weight: 700;
@@ -36,7 +36,7 @@ body {
     color: #5D62B5;
     margin-bottom: 33px;
 }
-.tetles__title {
+.titles__title {
     font-weight: 900;
     font-size: 36px;
     line-height: 1.16;
@@ -103,12 +103,12 @@ body {
     flex: 0 0 50%;
     
 }
-.tetles__sub-title_white {
+.titles__sub-title_white {
     color: #FFFFFF;
     background: url(../img/impact/Overline\ Mark.svg) 0 -2px no-repeat;
 }
 
-.tetles__title_white {
+.titles__title_white {
     color: #FFFFFF;
 }
 .impact__image {
@@ -117,7 +117,7 @@ body {
     padding: 0px 15px;
     position: relative;
 }
-.impac__dog-img {
+.impact__dog-img {
     border-radius: 40px;
     max-width: 100%;
 }
@@ -158,16 +158,14 @@ body {
     color: #5D62B5;
     letter-spacing: 0.15px;
 }
-.impact__footer  {
-    background: #5D62B5;
-    border-radius: 20px;
-    margin: -72px  auto 100px;
-}
 .footer-impact {
     display: flex;
     padding: 43px 76px 46px 70px;
     justify-content: space-between;
     max-width: 1020px;
+    background: #5D62B5;
+    border-radius: 20px;
+    margin: -72px  auto 100px;
 }
 .footer-impact__text {
     font-size: 24px;
